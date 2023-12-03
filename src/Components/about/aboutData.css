@@ -1,0 +1,16 @@
+.aboutData{
+    margin: 4rem 6rem;
+    text-align: start;
+}
+.aboutData h1{
+    padding-bottom: 1rem;
+}
+.aboutData p{
+    padding-bottom: 2rem;
+}
+@media screen and (max-width:850px) {
+    .aboutData{
+        margin: 4rem 2rem;
+    }
+    
+}

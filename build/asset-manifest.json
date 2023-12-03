@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TripYou1/static/css/main.4e8058df.css",
+    "main.js": "/TripYou1/static/js/main.ab9e6fb3.js",
+    "static/media/1.jpg": "/TripYou1/static/media/1.c3feb91e2526c2d043f0.jpg",
+    "static/media/4.webp": "/TripYou1/static/media/4.f4872e1ed6d62bb66615.webp",
+    "static/media/8.jpg": "/TripYou1/static/media/8.0b0ac7c5ca75eef66d12.jpg",
+    "static/media/6.jpg": "/TripYou1/static/media/6.c647f14efaefe7f3ac78.jpg",
+    "static/media/3.jpg": "/TripYou1/static/media/3.e74c0434c8b5d1fdd4ac.jpg",
+    "static/media/7.jpg": "/TripYou1/static/media/7.640bdec3271b81f1966b.jpg",
+    "static/media/5.jpg": "/TripYou1/static/media/5.29be9acdb341112052fe.jpg",
+    "static/media/99.jpg": "/TripYou1/static/media/99.a5cb17a42672633fbc39.jpg",
+    "static/media/55.jpg": "/TripYou1/static/media/55.ea03220b0d5e4d81653a.jpg",
+    "static/media/9.jpg": "/TripYou1/static/media/9.26564417d85adb473845.jpg",
+    "index.html": "/TripYou1/index.html",
+    "main.4e8058df.css.map": "/TripYou1/static/css/main.4e8058df.css.map",
+    "main.ab9e6fb3.js.map": "/TripYou1/static/js/main.ab9e6fb3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e8058df.css",
+    "static/js/main.ab9e6fb3.js"
+  ]
+}
